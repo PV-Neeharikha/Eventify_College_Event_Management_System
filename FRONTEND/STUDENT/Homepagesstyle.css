@@ -120,4 +120,5 @@ body {
     font-size: 22px;
     color: #333;
     border-radius: 10px;
+    transition: 0.3s;
 }
