@@ -1,0 +1,32 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(241, 208, 198, 0.9);
+}
+
+/* Page Heading */
+h1 {
+    text-align: center;
+    padding: 12px 24px;
+    border-radius: 12px;
+    width: max-content;
+    margin: 30px auto;
+    font-size: 45px;
+    background-color: #3f241c;   /* theme brown */
+    color: white;             
+    text-shadow: 2px 2px 6px rgba(0,0,0,0.4);
+}
+
+/* Info container */
+.info-container {
+    background-color: #f4edeb; 
+    padding: 25px 40px;
+    margin: 30px 50px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+
